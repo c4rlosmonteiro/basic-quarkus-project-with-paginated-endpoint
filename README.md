@@ -1,0 +1,1 @@
+# basic-quarkus-project-with-paginated-endpoint
